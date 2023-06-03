@@ -19,5 +19,5 @@ while(dec>0){
 	dec = Math.floor(dec/2);
 }
 console.log(binary);
-
+alert(binary)
 module.exports = threeSum;
